@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "kpb-internship",
+  "version": "1.0.0",
+  "description": "Project for CloudFlare Internship Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Kevin Babcock <kevin.babcock@go.tarleton.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
